@@ -1,4 +1,4 @@
 def my_day(feeling: str, rating: int):
   return f'Today was {feeling}, so I\'d rate my day as a {rating}.'
 
-print(my_day('joyful', 10))
+print(my_day('sad', 5))
